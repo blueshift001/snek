@@ -1,4 +1,4 @@
-#Snake Game#Snake Game#Snake Game
+# Snake Game
 
 The Project is a snake game built to run on the browser, no framewroks or libraries were required.
 
